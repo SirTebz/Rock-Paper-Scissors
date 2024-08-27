@@ -5,4 +5,4 @@ This is a solution to the [Rock Paper Scissors challenge by Odin Project](https:
 ### Links
 
 - Solution URL: [Solution](https://github.com/SirTebz/Rock-Paper-Scissors)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://sirtebz.github.io/Rock-Paper-Scissors/)
